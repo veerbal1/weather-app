@@ -19,19 +19,23 @@
   color: white;
 }
 
-.temperatureSection .temperature{
+.temperatureSection .temperature {
   font-size: 8em;
   color: white;
   letter-spacing: 5px;
   line-height: 102px;
 }
 
-.temperatureSection .locationSTime{
+.temperatureSection .locationSTime {
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
-.temperatureSection .weatherIcon{
+.temperatureSection .weatherIcon {
   margin-left: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }

@@ -11,7 +11,7 @@ const LeftSection = () => {
           <h4>06:09 - Monday, 09 Sep '19</h4>
         </div>
         <div className={style.weatherIcon}>
-          <img src="" alt="" />
+          <img src="/cloud-icon.png" alt="Cloud Icon" />
           <h4>Cloudy</h4>
         </div>
       </div>
