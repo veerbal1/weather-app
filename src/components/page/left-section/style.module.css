@@ -1,3 +1,37 @@
 .section {
   flex: 6.4;
+  padding-top: 4em;
+  padding-left: 6em;
+  padding-bottom: 12em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.brandName {
+  color: white;
+}
+
+.temperatureSection {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  color: white;
+}
+
+.temperatureSection .temperature{
+  font-size: 8em;
+  color: white;
+  letter-spacing: 5px;
+  line-height: 102px;
+}
+
+.temperatureSection .locationSTime{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.temperatureSection .weatherIcon{
+  margin-left: 1em;
 }
