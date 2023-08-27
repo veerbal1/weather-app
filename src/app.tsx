@@ -1,21 +1,12 @@
 import "./app.css";
+import LeftSection from "./components/page/left-section";
+import RightSection from "./components/page/right-section";
 
 function App() {
   return (
-    <div
-      style={{
-        display: "flex",
-        justifyContent: "center",
-      }}
-    >
-      <h1
-        style={{
-          fontWeight: 200,
-          fontSize: "5em",
-        }}
-      >
-        SinghSky
-      </h1>
+    <div className="main">
+      <LeftSection />
+      <RightSection />
     </div>
   );
 }
