@@ -5,7 +5,10 @@ import RightSection from "./components/page/right-section";
 function App() {
   return (
     <div className="main">
-      <video src="./cloud-movie.mp4" autoPlay loop controls></video>
+      <video autoPlay loop playsInline muted>
+        <source src="/cloud-movie.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
       <LeftSection />
       <RightSection />
     </div>
