@@ -1,7 +1,12 @@
+import Search from "./components/search";
 import style from "./style.module.css";
 
 const RightSection = () => {
-  return <h1 className={style.section}></h1>;
+  return (
+    <div className={`${style.section}`}>
+      <Search />
+    </div>
+  );
 };
 
 export default RightSection;
