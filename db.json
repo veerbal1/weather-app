@@ -1,0 +1,681 @@
+{
+  "location": [
+    {
+      "Version": 1,
+      "Key": "200160",
+      "Type": "City",
+      "Rank": 65,
+      "LocalizedName": "Dirba",
+      "EnglishName": "Dirba",
+      "PrimaryPostalCode": "",
+      "Region": {
+        "ID": "ASI",
+        "LocalizedName": "Asia",
+        "EnglishName": "Asia"
+      },
+      "Country": {
+        "ID": "IN",
+        "LocalizedName": "India",
+        "EnglishName": "India"
+      },
+      "AdministrativeArea": {
+        "ID": "PB",
+        "LocalizedName": "Punjab",
+        "EnglishName": "Punjab",
+        "Level": 1,
+        "LocalizedType": "State",
+        "EnglishType": "State",
+        "CountryID": "IN"
+      },
+      "TimeZone": {
+        "Code": "IST",
+        "Name": "Asia/Kolkata",
+        "GmtOffset": 5.5,
+        "IsDaylightSaving": false,
+        "NextOffsetChange": null
+      },
+      "GeoPosition": {
+        "Latitude": 30.071,
+        "Longitude": 75.994,
+        "Elevation": {
+          "Metric": {
+            "Value": 236,
+            "Unit": "m",
+            "UnitType": 5
+          },
+          "Imperial": {
+            "Value": 774,
+            "Unit": "ft",
+            "UnitType": 0
+          }
+        }
+      },
+      "IsAlias": false,
+      "SupplementalAdminAreas": [
+        {
+          "Level": 2,
+          "LocalizedName": "Sangrur",
+          "EnglishName": "Sangrur"
+        },
+        {
+          "Level": 3,
+          "LocalizedName": "Sunam",
+          "EnglishName": "Sunam"
+        }
+      ],
+      "DataSets": [
+        "AirQualityCurrentConditions",
+        "AirQualityForecasts",
+        "Alerts",
+        "ForecastConfidence",
+        "FutureRadar",
+        "MinuteCast",
+        "PremiumAirQuality"
+      ],
+      "Details": {
+        "Key": "200160",
+        "StationCode": "INQ471",
+        "StationGmtOffset": 5.5,
+        "BandMap": "IN",
+        "Climo": "PATX",
+        "LocalRadar": "",
+        "MediaRegion": null,
+        "Metar": "VIDP",
+        "NXMetro": "",
+        "NXState": "",
+        "Population": 16952,
+        "PrimaryWarningCountyCode": "",
+        "PrimaryWarningZoneCode": "",
+        "Satellite": "INDIA",
+        "Synoptic": "42101",
+        "MarineStation": "",
+        "MarineStationGMTOffset": null,
+        "VideoCode": "",
+        "LocationStem": "in/dirba/200160",
+        "PartnerID": null,
+        "Sources": [
+          {
+            "DataType": "AirQualityCurrentConditions",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          },
+          {
+            "DataType": "AirQualityForecasts",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          },
+          {
+            "DataType": "Alerts",
+            "Source": "India Meteorological Department",
+            "SourceId": 77
+          },
+          {
+            "DataType": "CurrentConditions",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "DailyForecast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "ForecastConfidence",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "FutureRadar",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "Historical",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "HourlyForecast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "MinuteCast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "PremiumAirQuality",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          }
+        ],
+        "CanonicalPostalCode": "",
+        "CanonicalLocationKey": "200160"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "2901534",
+      "Type": "City",
+      "Rank": 85,
+      "LocalizedName": "Dirba",
+      "EnglishName": "Dirba",
+      "PrimaryPostalCode": "",
+      "Region": {
+        "ID": "ASI",
+        "LocalizedName": "Asia",
+        "EnglishName": "Asia"
+      },
+      "Country": {
+        "ID": "IN",
+        "LocalizedName": "India",
+        "EnglishName": "India"
+      },
+      "AdministrativeArea": {
+        "ID": "OR",
+        "LocalizedName": "Odisha",
+        "EnglishName": "Odisha",
+        "Level": 1,
+        "LocalizedType": "State",
+        "EnglishType": "State",
+        "CountryID": "IN"
+      },
+      "TimeZone": {
+        "Code": "IST",
+        "Name": "Asia/Kolkata",
+        "GmtOffset": 5.5,
+        "IsDaylightSaving": false,
+        "NextOffsetChange": null
+      },
+      "GeoPosition": {
+        "Latitude": 21.505,
+        "Longitude": 86.131,
+        "Elevation": {
+          "Metric": {
+            "Value": 307,
+            "Unit": "m",
+            "UnitType": 5
+          },
+          "Imperial": {
+            "Value": 1006,
+            "Unit": "ft",
+            "UnitType": 0
+          }
+        }
+      },
+      "IsAlias": false,
+      "SupplementalAdminAreas": [
+        {
+          "Level": 2,
+          "LocalizedName": "Mayurbhanj",
+          "EnglishName": "Mayurbhanj"
+        },
+        {
+          "Level": 3,
+          "LocalizedName": "Thakurmunda",
+          "EnglishName": "Thakurmunda"
+        }
+      ],
+      "DataSets": [
+        "AirQualityCurrentConditions",
+        "AirQualityForecasts",
+        "Alerts",
+        "FutureRadar",
+        "MinuteCast",
+        "PremiumAirQuality"
+      ],
+      "Details": {
+        "Key": "2901534",
+        "StationCode": "IN0716",
+        "StationGmtOffset": 5.5,
+        "BandMap": "IN",
+        "Climo": "BALX",
+        "LocalRadar": "",
+        "MediaRegion": null,
+        "Metar": "VECC",
+        "NXMetro": "",
+        "NXState": "",
+        "Population": 462,
+        "PrimaryWarningCountyCode": "",
+        "PrimaryWarningZoneCode": "",
+        "Satellite": "INDIA",
+        "Synoptic": "42895",
+        "MarineStation": "",
+        "MarineStationGMTOffset": null,
+        "VideoCode": "",
+        "LocationStem": "in/dirba/2901534",
+        "PartnerID": null,
+        "Sources": [
+          {
+            "DataType": "AirQualityCurrentConditions",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          },
+          {
+            "DataType": "AirQualityForecasts",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          },
+          {
+            "DataType": "Alerts",
+            "Source": "India Meteorological Department",
+            "SourceId": 77
+          },
+          {
+            "DataType": "CurrentConditions",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "DailyForecast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "FutureRadar",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "Historical",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "HourlyForecast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "MinuteCast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "PremiumAirQuality",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          }
+        ],
+        "CanonicalPostalCode": "",
+        "CanonicalLocationKey": "2901534"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "1352602",
+      "Type": "City",
+      "Rank": 600,
+      "LocalizedName": "Dirba",
+      "EnglishName": "Dirba",
+      "PrimaryPostalCode": "",
+      "Region": {
+        "ID": "AFR",
+        "LocalizedName": "Africa",
+        "EnglishName": "Africa"
+      },
+      "Country": {
+        "ID": "ET",
+        "LocalizedName": "Ethiopia",
+        "EnglishName": "Ethiopia"
+      },
+      "AdministrativeArea": {
+        "ID": "OR",
+        "LocalizedName": "Oromia",
+        "EnglishName": "Oromia",
+        "Level": 1,
+        "LocalizedType": "Ethnically Based State",
+        "EnglishType": "Ethnically Based State",
+        "CountryID": "ET"
+      },
+      "TimeZone": {
+        "Code": "EAT",
+        "Name": "Africa/Addis_Ababa",
+        "GmtOffset": 3,
+        "IsDaylightSaving": false,
+        "NextOffsetChange": null
+      },
+      "GeoPosition": {
+        "Latitude": 9.25,
+        "Longitude": 40.933,
+        "Elevation": {
+          "Metric": {
+            "Value": 1733,
+            "Unit": "m",
+            "UnitType": 5
+          },
+          "Imperial": {
+            "Value": 5687,
+            "Unit": "ft",
+            "UnitType": 0
+          }
+        }
+      },
+      "IsAlias": false,
+      "SupplementalAdminAreas": [],
+      "DataSets": [
+        "AirQualityCurrentConditions",
+        "AirQualityForecasts",
+        "Alerts",
+        "FutureRadar",
+        "MinuteCast"
+      ],
+      "Details": {
+        "Key": "1352602",
+        "StationCode": "ET0474",
+        "StationGmtOffset": 3,
+        "BandMap": "ET",
+        "Climo": "HAAB",
+        "LocalRadar": "",
+        "MediaRegion": null,
+        "Metar": "OYAA",
+        "NXMetro": "",
+        "NXState": "",
+        "Population": null,
+        "PrimaryWarningCountyCode": "",
+        "PrimaryWarningZoneCode": "",
+        "Satellite": "AFRN",
+        "Synoptic": "63641",
+        "MarineStation": "",
+        "MarineStationGMTOffset": null,
+        "VideoCode": "",
+        "LocationStem": "et/dirba/1352602",
+        "PartnerID": null,
+        "Sources": [
+          {
+            "DataType": "AirQualityCurrentConditions",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          },
+          {
+            "DataType": "AirQualityForecasts",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          },
+          {
+            "DataType": "Alerts",
+            "Source": "United States Geological Survey",
+            "SourceId": 70
+          },
+          {
+            "DataType": "CurrentConditions",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "DailyForecast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "FutureRadar",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "Historical",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "HourlyForecast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "MinuteCast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          }
+        ],
+        "CanonicalPostalCode": "",
+        "CanonicalLocationKey": "1352602"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "1352601",
+      "Type": "City",
+      "Rank": 600,
+      "LocalizedName": "Dirba",
+      "EnglishName": "Dirba",
+      "PrimaryPostalCode": "",
+      "Region": {
+        "ID": "AFR",
+        "LocalizedName": "Africa",
+        "EnglishName": "Africa"
+      },
+      "Country": {
+        "ID": "ET",
+        "LocalizedName": "Ethiopia",
+        "EnglishName": "Ethiopia"
+      },
+      "AdministrativeArea": {
+        "ID": "TI",
+        "LocalizedName": "Tigrai",
+        "EnglishName": "Tigrai",
+        "Level": 1,
+        "LocalizedType": "Ethnically Based State",
+        "EnglishType": "Ethnically Based State",
+        "CountryID": "ET"
+      },
+      "TimeZone": {
+        "Code": "EAT",
+        "Name": "Africa/Addis_Ababa",
+        "GmtOffset": 3,
+        "IsDaylightSaving": false,
+        "NextOffsetChange": null
+      },
+      "GeoPosition": {
+        "Latitude": 13.57,
+        "Longitude": 39.611,
+        "Elevation": {
+          "Metric": {
+            "Value": 2320,
+            "Unit": "m",
+            "UnitType": 5
+          },
+          "Imperial": {
+            "Value": 7612,
+            "Unit": "ft",
+            "UnitType": 0
+          }
+        }
+      },
+      "IsAlias": false,
+      "SupplementalAdminAreas": [],
+      "DataSets": [
+        "AirQualityCurrentConditions",
+        "AirQualityForecasts",
+        "FutureRadar",
+        "MinuteCast"
+      ],
+      "Details": {
+        "Key": "1352601",
+        "StationCode": "ET0162",
+        "StationGmtOffset": 3,
+        "BandMap": "ET",
+        "Climo": "OYHD",
+        "LocalRadar": "",
+        "MediaRegion": null,
+        "Metar": "OYHD",
+        "NXMetro": "",
+        "NXState": "",
+        "Population": null,
+        "PrimaryWarningCountyCode": "",
+        "PrimaryWarningZoneCode": "",
+        "Satellite": "AFRN",
+        "Synoptic": "41140",
+        "MarineStation": "",
+        "MarineStationGMTOffset": null,
+        "VideoCode": "",
+        "LocationStem": "et/dirba/1352601",
+        "PartnerID": null,
+        "Sources": [
+          {
+            "DataType": "AirQualityCurrentConditions",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          },
+          {
+            "DataType": "AirQualityForecasts",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          },
+          {
+            "DataType": "CurrentConditions",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "DailyForecast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "FutureRadar",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "Historical",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "HourlyForecast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "MinuteCast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          }
+        ],
+        "CanonicalPostalCode": "",
+        "CanonicalLocationKey": "1352601"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "939486",
+      "Type": "City",
+      "Rank": 600,
+      "LocalizedName": "Dirba",
+      "EnglishName": "Dirba",
+      "PrimaryPostalCode": "",
+      "Region": {
+        "ID": "AFR",
+        "LocalizedName": "Africa",
+        "EnglishName": "Africa"
+      },
+      "Country": {
+        "ID": "NG",
+        "LocalizedName": "Nigeria",
+        "EnglishName": "Nigeria"
+      },
+      "AdministrativeArea": {
+        "ID": "AD",
+        "LocalizedName": "Adamawa",
+        "EnglishName": "Adamawa",
+        "Level": 1,
+        "LocalizedType": "State",
+        "EnglishType": "State",
+        "CountryID": "NG"
+      },
+      "TimeZone": {
+        "Code": "WAT",
+        "Name": "Africa/Lagos",
+        "GmtOffset": 1,
+        "IsDaylightSaving": false,
+        "NextOffsetChange": null
+      },
+      "GeoPosition": {
+        "Latitude": 10.1,
+        "Longitude": 13.233,
+        "Elevation": {
+          "Metric": {
+            "Value": 726,
+            "Unit": "m",
+            "UnitType": 5
+          },
+          "Imperial": {
+            "Value": 2381,
+            "Unit": "ft",
+            "UnitType": 0
+          }
+        }
+      },
+      "IsAlias": false,
+      "SupplementalAdminAreas": [],
+      "DataSets": [
+        "AirQualityCurrentConditions",
+        "AirQualityForecasts",
+        "MinuteCast"
+      ],
+      "Details": {
+        "Key": "939486",
+        "StationCode": "NI0115",
+        "StationGmtOffset": 1,
+        "BandMap": "NI",
+        "Climo": "FKKR",
+        "LocalRadar": "",
+        "MediaRegion": null,
+        "Metar": "FKKR",
+        "NXMetro": "",
+        "NXState": "",
+        "Population": null,
+        "PrimaryWarningCountyCode": "",
+        "PrimaryWarningZoneCode": "",
+        "Satellite": "AFRN",
+        "Synoptic": "64709",
+        "MarineStation": "",
+        "MarineStationGMTOffset": null,
+        "VideoCode": "",
+        "LocationStem": "ng/dirba/939486",
+        "PartnerID": null,
+        "Sources": [
+          {
+            "DataType": "AirQualityCurrentConditions",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          },
+          {
+            "DataType": "AirQualityForecasts",
+            "Source": "Plume Labs",
+            "SourceId": 63
+          },
+          {
+            "DataType": "CurrentConditions",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "DailyForecast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "Historical",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "HourlyForecast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          },
+          {
+            "DataType": "MinuteCast",
+            "Source": "AccuWeather",
+            "SourceId": 1
+          }
+        ],
+        "CanonicalPostalCode": "",
+        "CanonicalLocationKey": "939486"
+      }
+    }
+  ]
+}
